@@ -1,1 +1,1 @@
-print «Hello World Baby»
+print «Bonjour Monde»
